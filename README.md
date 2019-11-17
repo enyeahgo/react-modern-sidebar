@@ -1,1 +1,1 @@
-# Create a Dynamic, Modern Sidebar in React using Recursion
+# React Modern Sidebar with Recursion and ripple effect
